@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  >
+  
+  <TextView 
+android:text="发表话题" 
+android:id="@+id/topicpublish_toptitle" 
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content"
+android:textSize="20dp"
+android:gravity="center"
+android:background="@color/black_end"
+>
+</TextView>
+<TextView 
+android:text="标题:" 
+android:id="@+id/topicpublish_titlename" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content">
+</TextView>
+
+<EditText 
+android:text=""
+android:id="@+id/topicpublish_title" 
+android:layout_width="fill_parent" 
+android:layout_height="50dip"
+android:gravity="top">
+</EditText>
+
+ 
+<TextView 
+android:text="内容:" 
+android:id="@+id/topicpublish_contentname" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content">
+</TextView>
+
+<EditText 
+android:text=""
+android:id="@+id/topicpublish_content" 
+android:layout_width="fill_parent" 
+android:layout_height="150dip"
+android:gravity="top">
+</EditText>
+
+
+<Button 
+	android:text="@string/btnConfirm" 
+	android:id="@+id/topicpublish_submit" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content">
+</Button>
+
+
+
+</LinearLayout>
+
+
+
+
+<!--  
+ <LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+  android:layout_weight="3"
+  ></LinearLayout>
+  
+  
+-->

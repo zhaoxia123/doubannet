@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib
+END
+jericho-html-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/jericho-html-3.1.jar
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/commons-codec-1.3.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/commons-httpclient-3.1.jar
+END
+gdata-client-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/gdata-client-1.0.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/commons-logging-1.1.jar
+END
+oauth-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/oauth-1.3.jar
+END
+gdata-core-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mydouban/!svn/ver/3/trunk/mydouban/lib/gdata-core-1.0.jar
+END
