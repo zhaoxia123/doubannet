@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -7,7 +7,7 @@ import java.util.List;
 
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.content.Intent;
+import android.content.Intent;  
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.LayoutInflater;

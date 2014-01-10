@@ -11,7 +11,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
- 
+   
 import com.chenyc.douban.entity.Review;
 import com.chenyc.douban.util.NetUtil;
 
@@ -23,7 +23,7 @@ import com.chenyc.douban.util.NetUtil;
  */
 public class ReviewViewActivity extends BaseActivity {
 
-	private TextView txtReviewTitle;
+	private TextView txtReviewTitle; 
 	private TextView txtReviewContent;
 	private TextView txtReviewComment;
 	private ImageView userImageView;
