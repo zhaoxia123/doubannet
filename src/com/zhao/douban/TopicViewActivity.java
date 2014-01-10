@@ -11,7 +11,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ListAdapter;
-import android.widget.ListView; 
+import android.widget.ListView;  
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 
